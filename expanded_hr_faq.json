@@ -1,0 +1,60 @@
+{
+    "faqs": [
+        {
+            "question": "What is the leave policy?",
+            "answer": "The company offers X days of annual leave, Y sick leaves, and Z casual leaves. You can check your balance in the HR portal."
+        },
+        {
+            "question": "How do I apply for leave?",
+            "answer": "You can apply for leave via the HRMS portal or send an email to your manager for approval."
+        },
+        {
+            "question": "How many leaves do I have left?",
+            "answer": "You can check your leave balance on the HRMS portal or contact HR for assistance."
+        },
+        {
+            "question": "Can I carry forward my unused leaves?",
+            "answer": "Yes, up to a certain limit as per company policy. Check with HR for details."
+        },
+        {
+            "question": "How do I check my salary slip?",
+            "answer": "You can download your salary slip from the HRMS portal under the payroll section."
+        },
+        {
+            "question": "When will I get my salary?",
+            "answer": "Salaries are processed on the last working day of each month."
+        },
+        {
+            "question": "How do I update my bank account details for salary credit?",
+            "answer": "Submit a request via HRMS along with your updated bank details."
+        },
+        {
+            "question": "What is the work-from-home policy?",
+            "answer": "Employees can request work-from-home based on their department's policy. Approval from the manager is required."
+        },
+        {
+            "question": "Can I work remotely permanently?",
+            "answer": "Permanent remote work is subject to company policy and manager approval."
+        },
+        {
+            "question": "What are the promotion criteria?",
+            "answer": "Promotions are based on performance reviews, years of experience, and contributions to the company."
+        },
+        {
+            "question": "How do I enroll in company-sponsored training programs?",
+            "answer": "Visit the HR portal and navigate to the Learning & Development section for available training programs."
+        },
+        {
+            "question": "What is the dress code policy?",
+            "answer": "The company follows a business casual dress code, except on formal client meeting days."
+        },
+        {
+            "question": "How do I report workplace harassment?",
+            "answer": "Employees can report workplace harassment confidentially through the HR grievance portal or speak with an HR representative directly."
+        },
+        {
+            "question": "How do I resign from the company?",
+            "answer": "To resign, submit a formal resignation letter via email or HRMS, serve the required notice period, and complete exit formalities."
+        }
+    ]
+}

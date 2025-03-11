@@ -1,0 +1,64 @@
+{
+    "faqs": [
+        {
+            "question": "What is the leave policy?",
+            "answer": "The company offers X days of annual leave, Y sick leaves, and Z casual leaves. You can check your balance in the HR portal."
+        },
+        {
+            "question": "How do I apply for leave?",
+            "answer": "You can apply for leave via the HRMS portal or send an email to your manager for approval."
+        },
+        {
+            "question": "When will I get my salary?",
+            "answer": "Salaries are processed on the last working day of each month."
+        },
+        {
+            "question": "What health insurance benefits does the company offer?",
+            "answer": "The company provides health insurance that covers medical expenses for employees and their dependents. Details can be found in the HR portal."
+        },
+        {
+            "question": "What is the work-from-home policy?",
+            "answer": "Employees can request work-from-home based on their department's policy. Approval from the manager is required."
+        },
+        {
+            "question": "How do I update my personal details in HR records?",
+            "answer": "You can update your details through the HRMS portal or contact the HR team."
+        },
+        {
+            "question": "What is the process for performance reviews?",
+            "answer": "Performance reviews are conducted bi-annually, and employees receive feedback from their managers. Ratings impact salary hikes and promotions."
+        },
+        {
+            "question": "How can I get a salary increment?",
+            "answer": "Salary increments are based on annual performance reviews and company budget considerations. Employees can discuss with their managers during review cycles."
+        },
+        {
+            "question": "What are the company\u2019s training and skill development programs?",
+            "answer": "The company offers various skill development programs, including online courses and in-house training. Employees can check the HR portal for enrollment."
+        },
+        {
+            "question": "How do I claim reimbursement for work-related expenses?",
+            "answer": "Reimbursement claims can be submitted through the HRMS portal with proper receipts and manager approval."
+        },
+        {
+            "question": "What is the dress code policy?",
+            "answer": "The company follows a business casual dress code, except on formal client meeting days."
+        },
+        {
+            "question": "What is the probation period for new employees?",
+            "answer": "New employees have a probation period of 6 months, after which their performance is reviewed for confirmation."
+        },
+        {
+            "question": "How do I report workplace harassment?",
+            "answer": "Employees can report workplace harassment confidentially through the HR grievance portal or speak with an HR representative directly."
+        },
+        {
+            "question": "Does the company offer relocation assistance?",
+            "answer": "Yes, the company provides relocation assistance for employees moving for job-related purposes. Contact HR for details."
+        },
+        {
+            "question": "How do I resign from the company?",
+            "answer": "To resign, submit a formal resignation letter via email or HRMS, serve the required notice period, and complete exit formalities."
+        }
+    ]
+}
